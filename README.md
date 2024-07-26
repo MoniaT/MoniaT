@@ -6,7 +6,7 @@ Bridging the gap between business goals and technology solutions. Focused on del
 About Me
 -------------------------
 * 🌍  I'm based in Egypt
-* ✉️  You can contact me at [monia.tarek.abdelazim@gmail.com](mailto:monia.tarek.abdelazim@gmail.com)
+* ✉️  You can contact me at [monia.tarek.abdelazim@gmail.com]
 * 🧠  I'm currently learning SQL & Python.
 
 Languages and Skills
@@ -28,3 +28,7 @@ Let's connect!
 -------------------------
 
 <p align="left"> <a href="https://www.github.com/MoniaT" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/monia-tarek/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+Projects
+-------------------------
