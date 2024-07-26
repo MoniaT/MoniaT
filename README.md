@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Monia Tarek
 ===================================================================================================================================
 
-Quality Assurance Analyst
--------------------------
-
 Bridging the gap between business goals and technology solutions. Focused on delivering actionable insights to drive strategic growth and operational efficiency.
 
+About Me
+-------------------------
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [monia.tarek.abdelazim@gmail.com](mailto:monia.tarek.abdelazim@gmail.com)
 * 🧠  I'm learning SQL, Pythone
